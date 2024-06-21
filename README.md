@@ -1,1 +1,1 @@
-# Yo
+# ${{ env.DOTNET_VERSION }}
